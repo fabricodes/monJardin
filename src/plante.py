@@ -32,7 +32,7 @@ class Plante():
             self.icon_item= self.cnv.create_image(self.coord, image= img)
             self.maPlante=self.form_plante()
 
-
+    # déclenche une popup
         self.popup()
         self.cnv.tag_bind(self.icon_item,'<Enter>',self.infobulle)
         self.cnv.tag_bind(self.icon_item,'<Button-3>',self.do_popup)
