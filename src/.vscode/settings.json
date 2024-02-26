@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "/home/fabrice/.pyenv/versions/3.8.5/bin/python",
+    "window.zoomLevel": 2,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.occurrencesHighlight": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.autoSave": "onFocusChange",
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "emmet.triggerExpansionOnTab": true,

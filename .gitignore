@@ -1,0 +1,7 @@
+# ignore la base de données Plante et la formation .pdf
+plantes
+formation-20botanique-202012-20-20pples-20familles.pdf
+# ignorer le riquiremenets.txt
+requirements.txt
+# et le workspace
+src/monJardin.code-workspace 
